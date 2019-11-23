@@ -1,0 +1,15 @@
+.jumbotron {
+  background-color: darkblue;
+  color: white;
+  font-weight: bold;
+  height: 100px;
+}
+
+h1 {
+  position: relative;
+  text-align: center;
+}
+body {
+  margin: 0 auto;
+  width: 80%; /* value of your choice which suits your alignment */
+}
